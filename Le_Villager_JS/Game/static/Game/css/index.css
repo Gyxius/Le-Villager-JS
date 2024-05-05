@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#game {
+    background-color: #8EDD69;
+    width: 1280px;
+    height: 640px;
+}
+
+/*
+.tile {
+    width: 16px;
+    height: 16px;
+    background-color: aqua;
+}
+*/
+* {
+    outline: 2px solid red;
+}
+
